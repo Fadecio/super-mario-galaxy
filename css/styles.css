@@ -1585,7 +1585,7 @@ body {
   font-size: var(--fs-2xs);
   font-weight: var(--fw-regular);
   line-height: var(--lh-body);
-  color: var(--text-muted);
+  color: var(--text-faint);
 }
 
 .estreia__nebula,
